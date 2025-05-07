@@ -56,9 +56,9 @@ dataset/
 
 - Testing
 ```sh
-		python test.py --model-type res \
-	  --weights best_model.pth \
-	  --image-dir /path/to/your/dataset
+python test.py --model-type res \
+	       --weights best_model.pth \
+	       --image-dir /path/to/your/dataset
 ```
  
 
