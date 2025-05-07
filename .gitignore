@@ -1,0 +1,13 @@
+train.txt
+train2.txt
+
+*.pth
+*.ckpt
+*.zip
+*.pdf
+*.docx
+
+*.csv
+*.log
+*.json
+*.yaml
