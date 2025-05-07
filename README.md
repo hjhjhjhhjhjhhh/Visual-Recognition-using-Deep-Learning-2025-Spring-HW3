@@ -54,12 +54,12 @@ dataset/
   - Swin transformer(small) backbone  
     `python train_swin.py --image-dir /path/to/your/dataset`
 
-- Testing
-```sh
-python test.py --model-type res \
-	       --weights best_model.pth \
-	       --image-dir /path/to/your/dataset
-```
+- Testing  
+      `
+       python test.py --model-type res 
+	               --weights best_model.pth 
+	               --image-dir /path/to/your/dataset
+      `
  
 
 ## Performance snapshot
