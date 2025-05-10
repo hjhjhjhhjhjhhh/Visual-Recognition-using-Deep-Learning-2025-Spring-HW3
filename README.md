@@ -54,7 +54,7 @@ dataset/
   - Swin transformer(small) backbone  
     `python train_swin.py --image-dir /path/to/your/dataset`
 
-- Testing  
+- Testing (you can choose model-type "res" or "swin_s" according to what train model you use)   
       `
        python test.py --model-type res 
 	               --weights best_model.pth 
